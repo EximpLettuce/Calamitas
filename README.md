@@ -1,13 +1,18 @@
 # Changelog and Patch Notes
 Calamitas Plugin By EximpLettuce:
 
-Current Version: 1.0.1.
+Current Version: 1.0.2.
 Minecraft Version: 1.16.3.
 Discord: https://discord.gg/vNecgtaJ37.
 Special thanks to VandalieuKUN for hosting the minecraft server: twitch.tv/vandalieukun
 
 
 Changelog:
+
+v1.0.2
+- Added new item: infused netherite helmet
+- Added new item: infused netherite boots
+- Added new recipes
 
 v1.0.1
 - Added new item: infused netherite chestplate
@@ -46,17 +51,25 @@ Items:
 
 Armor:
 
+- Infused Netherite Helmet:
+	- Crafted in a cross shape with 4 infused anger blocks and 1 netherite helmet.
+	- Unbreakable.
+	
 - Infused Netherite Chestplate:
 	- Crafted in a cross shape with 4 infused anger blocks and 1 netherite chestplate.
-	- Unbreakable
+	- Unbreakable.
 
 - Infused Netherite Leggings:
 	- Crafted in a cross shape with 4 infused anger blocks and 1 netherite leggings.
 	- Unbreakable.
 
+- Infused Netherite Boots:
+	- Crafted in a cross shape with 4 infused anger blocks and 1 netherite boots.
+	- Unbreakable.
+
 Recipes:
 
-	- infused_anger, infused_anger_block, infused_netherite_chestplate, infused_netherite_leggings.
+	- infused_anger, infused_anger_block, infused_netherite_helmet, infused_netherite_chestplate, infused_netherite_leggings, infused_netherite_boots.
 
 Mobs:
  - Calamitas Minion:
