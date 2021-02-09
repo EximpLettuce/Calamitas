@@ -4,7 +4,6 @@ Calamitas Plugin By EximpLettuce:
 Current Version: 1.0.1.
 Minecraft Version: 1.16.3.
 Discord: https://discord.gg/vNecgtaJ37.
-Useful Information: Recipe images can be found in the discord server.
 Special thanks to VandalieuKUN for hosting the minecraft server: twitch.tv/vandalieukun
 
 
