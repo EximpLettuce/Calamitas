@@ -1,7 +1,7 @@
 # Calamitas
 Calamitas Plugin By EximpLettuce:
 
-Current Version: 1.1.0
+Current Version: 1.0.1
 Minecraft Version: 1.16.3
 Discord: https://discord.gg/vNecgtaJ37
 Useful Information: Recipe images can be found in the discord server.
@@ -9,7 +9,7 @@ Useful Information: Recipe images can be found in the discord server.
 
 Changelog:
 
-v1.1.0
+v1.0.1
 - Added new item: infused netherite chestplate
 - Added new item: infused netherite leggings
 - Added new recipes
