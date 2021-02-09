@@ -1,4 +1,4 @@
-# Calamitas
+# Changelog and Patch Notes
 Calamitas Plugin By EximpLettuce:
 
 Current Version: 1.0.1.
