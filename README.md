@@ -7,6 +7,11 @@ Discord: https://discord.gg/vNecgtaJ37.
 Special thanks to VandalieuKUN for hosting the minecraft server: twitch.tv/vandalieukun
 
 
+Important Note:
+
+To use the resource pack you need to have optifine installed. You can download it here: https://optifine.net/downloads
+
+
 Changelog:
 
 v1.0.4
