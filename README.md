@@ -32,7 +32,7 @@ v1.0.1
 - Added new item: infused netherite chestplate
 - Added new item: infused netherite leggings
 - Added new recipes
-- Changed % values
+- Changed percentage values
 
 v1.0.0
 - Changed item: infused anger block
