@@ -12,6 +12,7 @@ Changelog:
 v1.0.3
 - Added new armor set effect
 - Added an official resource pack. (Can be downloaded in this repository)
+- Minor performance fixes.
 
 v1.0.2
 - Added new item: infused netherite helmet
