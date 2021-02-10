@@ -1,13 +1,16 @@
 # Changelog and Patch Notes
 Calamitas Plugin By EximpLettuce:
 
-Current Version: 1.0.2.
+Current Version: 1.0.3.
 Minecraft Version: 1.16.3.
 Discord: https://discord.gg/vNecgtaJ37.
 Special thanks to VandalieuKUN for hosting the minecraft server: twitch.tv/vandalieukun
 
 
 Changelog:
+
+v1.0.3
+- Added new armor set effect
 
 v1.0.2
 - Added new item: infused netherite helmet
@@ -71,6 +74,10 @@ Recipes:
 
 	- infused_anger, infused_anger_block, infused_netherite_helmet, infused_netherite_chestplate, infused_netherite_leggings, infused_netherite_boots.
 
+Armor Set Effects:
+
+- Infused Netherite Set Effect:
+	- Adds 4 health (2 hearts) of health when worn.
 Mobs:
  - Calamitas Minion:
   - 10% chance to spawn instead of a skeleton.
