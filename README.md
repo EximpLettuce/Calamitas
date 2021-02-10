@@ -1,13 +1,17 @@
 # Changelog and Patch Notes
 Calamitas Plugin By EximpLettuce:
 
-Current Version: 1.0.3.
+Current Version: 1.0.4.
 Minecraft Version: 1.16.3.
 Discord: https://discord.gg/vNecgtaJ37.
 Special thanks to VandalieuKUN for hosting the minecraft server: twitch.tv/vandalieukun
 
 
 Changelog:
+
+v1.0.4
+- Added new textures.
+- Changed item type of infused anger blocks from red_concrete to brown_dye due to graphical and performance errors.
 
 v1.0.3
 - Added new armor set effect
