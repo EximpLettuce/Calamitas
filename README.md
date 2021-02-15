@@ -1,7 +1,7 @@
 # Changelog and Patch Notes
 Calamitas Plugin By EximpLettuce:
 
-Current Version: 1.0.4.
+Current Version: 1.1.0.
 Minecraft Version: 1.16.3.
 Discord: https://discord.gg/vNecgtaJ37.
 Special thanks to VandalieuKUN for hosting the minecraft server: twitch.tv/vandalieukun
