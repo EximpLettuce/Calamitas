@@ -91,6 +91,6 @@ Armor Set Effects:
 	- Adds 4 health (2 hearts) of health when worn.
 Mobs:
  - Calamitas Minion:
-  - 10% chance to spawn instead of a skeleton.
-  - Has full leather armor with protection II and a stone sword with fire aspect II.
-  - No pieces of equipment can be obtained.
+ 	- 10% chance to spawn instead of a skeleton.
+  	- Has full leather armor with protection II and a stone sword with fire aspect II.
+  	- No pieces of equipment can be obtained.
