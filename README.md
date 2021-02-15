@@ -95,8 +95,16 @@ Armor Set Effects:
 
 - Infused Netherite Set Effect:
 	- Adds 4 health (2 hearts) of health when worn.
+
 Mobs:
+
  - Calamitas Minion:
  	- 10% chance to spawn instead of a skeleton.
   	- Has full leather armor with protection II and a stone sword with fire aspect II.
   	- No pieces of equipment can be obtained.
+	
+Commands:
+
+	/calamitas give: Currently it only gives two items (infused_anger and infused_anger_blocks). Only available for administrators. /calamitas give <item> (iab, ia).
+	/calamitas help: Shows in-game help of the plugin. Currently is not working.
+	/trails: opens a GUI to select a particle trails. Currently there are only two trails available. Only available for administrators.
