@@ -14,6 +14,12 @@ To use the resource pack you need to have optifine installed. You can download i
 
 Changelog:
 
+v1.1.0
+- Retextured items.
+- Added new textures.
+- Added new commands.
+- Added a trails GUI.
+
 v1.0.4
 - Added new textures.
 - Changed item type of infused anger blocks from red_concrete to brown_dye due to graphical and performance errors.
