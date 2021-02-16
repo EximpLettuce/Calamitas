@@ -113,7 +113,7 @@ Weapons:
 
 Recipes:
 
-	- infused_anger, infused_anger_block, infused_netherite_helmet, infused_netherite_chestplate, infused_netherite_leggings, infused_netherite_boots, infused_core, 		infused_netherite ingot, infused_netherite_sword.
+	- infused_anger, infused_anger_block, infused_netherite_helmet, infused_netherite_chestplate, infused_netherite_leggings, infused_netherite_boots, infused_core, infused_netherite ingot, infused_netherite_sword.
 
 Armor Set Effects:
 
