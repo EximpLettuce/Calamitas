@@ -1,10 +1,12 @@
 # Changelog and Patch Notes
 Calamitas Plugin By EximpLettuce:
 
-Current Version: 1.1.0.
+Current Version: 1.1.1.
 Minecraft Version: 1.16.3.
 Discord: https://discord.gg/vNecgtaJ37.
-Special thanks to VandalieuKUN for hosting the minecraft server: twitch.tv/vandalieukun
+Special thanks: 
+	- VandalieuKUN for hosting the minecraft server: twitch.tv/vandalieukun
+	- Mrtipitupix for designing texture models.
 
 
 Please note:
@@ -13,6 +15,13 @@ To use the resource pack you need to have optifine installed. You can download i
 
 
 Changelog:
+
+v1.1.1
+- Added new item: infused core
+- Added new item: infused netherite ingot
+- Added new item: infused netherite sword
+- Added new recipes.
+- Added new textures.
 
 v1.1.0
 - Retextured items.
@@ -25,7 +34,7 @@ v1.0.4
 - Changed item type of infused anger blocks from red_concrete to brown_dye due to graphical and performance errors.
 
 v1.0.3
-- Added new armor set effect
+- Added new armor set effect.
 - Added an official resource pack. (Can be downloaded in this repository)
 - Minor performance fixes.
 
@@ -68,6 +77,14 @@ Items:
 	"An even more pure form of anger"
 	- Crafted with 9 infused anger (1 on each crafting slot).
 	- Used to craft infused netherite armor.
+	
+- Infused Netherite Ingot:
+	- Crafted with 8 netherite ingots and 1 infused core.
+	- Used to craft infused netherite sword.
+
+- Infused Core:
+	- Crafted with 1 nether star and 8 infused anger blocks.
+	- Used to craft infused netherite ingots.
 
 Armor:
 
@@ -86,10 +103,17 @@ Armor:
 - Infused Netherite Boots:
 	- Crafted in a cross shape with 4 infused anger blocks and 1 netherite boots.
 	- Unbreakable.
+	
+Weapons:
+
+- Infused Netherite Sword:
+	- Crafted with 2 infused netherite ingots and a stick.
+	- 12 attack damage (increases as normal with enchants althought it doesn't show).
+	- Unbreakable.
 
 Recipes:
 
-	- infused_anger, infused_anger_block, infused_netherite_helmet, infused_netherite_chestplate, infused_netherite_leggings, infused_netherite_boots.
+	- infused_anger, infused_anger_block, infused_netherite_helmet, infused_netherite_chestplate, infused_netherite_leggings, infused_netherite_boots, infused_core, 		infused_netherite ingot, infused_netherite_sword.
 
 Armor Set Effects:
 
