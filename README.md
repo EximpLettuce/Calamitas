@@ -22,6 +22,7 @@ v1.1.2
 - Retextured some items.
 - Added new commands.
 - Fixed minor bugs.
+- Added Enchantment.FIRE_ASPECT, 3 to Infused Netherite Sword.
 
 v1.1.1
 - Added new item: infused core
@@ -117,6 +118,7 @@ Weapons:
 	- Crafted with 2 infused netherite ingots and a stick.
 	- 12 attack damage (increases as normal with enchants althought it doesn't show).
 	- Unbreakable.
+	- Has Fire Aspect III
 
 Recipes:
 
