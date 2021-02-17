@@ -1,7 +1,7 @@
 # Changelog and Patch Notes
 Calamitas Plugin By EximpLettuce:
 
-Current Version: 1.1.1.
+Current Version: 1.1.2.
 Minecraft Version: 1.16.3.
 Discord: https://discord.gg/vNecgtaJ37.
 Special thanks: 
@@ -15,6 +15,13 @@ To use the resource pack you need to have optifine installed. You can download i
 
 
 Changelog:
+
+v1.1.2
+- Added new textures.
+- Fixed visual bugs.
+- Retextured some items.
+- Added new commands.
+- Fixed minor bugs.
 
 v1.1.1
 - Added new item: infused core
@@ -129,6 +136,6 @@ Mobs:
 	
 Commands:
 
-	/calamitas give: Currently it only gives two items (infused_anger and infused_anger_blocks). Only available for administrators. /calamitas give <item> (iab, ia).
+	/calamitas give: Only available for administrators. /calamitas give <item> (iab, ia, insword, inh, inc, inl, inboot).
 	/calamitas help: Shows in-game help of the plugin. Currently is not working.
 	/trails: opens a GUI to select a particle trails. Currently there are only two trails available. Only available for administrators.
