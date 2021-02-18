@@ -16,6 +16,10 @@ To use the resource pack you need to have optifine installed. You can download i
 
 Changelog:
 
+v.1.1.3
+- Added new mob: calamitas_liutenant
+- Fixed minor bugs.
+
 v1.1.2
 - Added new textures.
 - Fixed visual bugs.
@@ -135,6 +139,15 @@ Mobs:
  	- 10% chance to spawn instead of a skeleton.
   	- Has full leather armor with protection II and a stone sword with fire aspect II.
   	- No pieces of equipment can be obtained.
+  
+ - Calamitas Liutenant:
+ 	- 1% chance to replace any hostile creature inland. (Exceptions: ender dragon enderman, shulker, wither)
+ 	- Full leather armor (and a player head as helmet).
+ 	- No unusual drops by the moment.
+ 	- Baby husk as vanilla creature.
+ 	- 100 health (50 hearts).
+ 	- Does melee 10 damage (5 hearts).
+ 	- Attacks chikens and is scared of turtles.
 	
 Commands:
 
